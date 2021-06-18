@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_media.sass"],"sourcesContent":["@media (max-width: 1200px)\r\n\t.menu\r\n\t\t&_item\r\n\t\t\tpadding-right: 20px\r\n\t\t&_link\r\n\t\t\tfont-size: 13px\r\n\t.promo\r\n\t\t&_header\r\n\t\t\tfont-size: 50px\r\n\t.reasons\r\n\t\t&_block\r\n\t\t\talign-items: flex-start\r\n\t\t&_descr\r\n\t\t\twidth: 300px"],"file":"_media.css"}

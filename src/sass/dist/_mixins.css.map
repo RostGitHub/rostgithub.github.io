@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["_mixins.sass"],"sourcesContent":["=btn_hover\r\n\t&:hover\r\n\t\tbackground-image: none\r\n\t\tbackground-color: $main-color"],"file":"_mixins.css"}
